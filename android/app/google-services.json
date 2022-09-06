@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320481697233",
+    "project_id": "cogent-object-359511",
+    "storage_bucket": "cogent-object-359511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320481697233:android:b1405b620565de600954f0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320481697233-802rtu93r2lbb5ik8a1ucbem3l58uf97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD63I562m6m9q_rMUe8FOiAAjBtsT59YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320481697233-802rtu93r2lbb5ik8a1ucbem3l58uf97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

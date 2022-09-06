@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="48" viewBox="0 0 50 48">
+  <g id="Group_575" data-name="Group 575" transform="translate(-16 -113)">
+    <rect id="Rectangle_512" data-name="Rectangle 512" width="50" height="48" transform="translate(16 113)" fill="#f2f2f2" opacity="0"/>
+    <path id="bxs-calendar" d="M21,20V6a2,2,0,0,0-2-2H17V2H15V4H9V2H7V4H5A2,2,0,0,0,3,6V20a2,2,0,0,0,2,2H19A2,2,0,0,0,21,20ZM9,18H7V16H9Zm0-4H7V12H9Zm4,4H11V16h2Zm0-4H11V12h2Zm4,4H15V16h2Zm0-4H15V12h2Zm2-5H5V7H19Z" transform="translate(29 125)" fill="#aaa"/>
+  </g>
+</svg>

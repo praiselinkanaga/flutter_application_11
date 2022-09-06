@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="48" viewBox="0 0 50 48">
+  <g id="Group_575" data-name="Group 575" transform="translate(-16 -113)">
+    <rect id="Rectangle_512" data-name="Rectangle 512" width="50" height="48" transform="translate(16 113)" fill="#f2f2f2" opacity="0"/>
+    <g id="bxs-coin-stack" transform="translate(29 125)">
+      <path id="Path_1314" data-name="Path 1314" d="M12,10c3.976,0,8-1.374,8-4s-4.024-4-8-4S4,3.374,4,6,8.024,10,12,10Z" fill="#aaa"/>
+      <path id="Path_1315" data-name="Path 1315" d="M4,10c0,2.626,4.024,4,8,4s8-1.374,8-4V8c0,2.626-4.024,4-8,4S4,10.626,4,8Z" fill="#aaa"/>
+      <path id="Path_1316" data-name="Path 1316" d="M4,14c0,2.626,4.024,4,8,4s8-1.374,8-4V12c0,2.626-4.024,4-8,4s-8-1.374-8-4Z" fill="#aaa"/>
+      <path id="Path_1317" data-name="Path 1317" d="M4,18c0,2.626,4.024,4,8,4s8-1.374,8-4V16c0,2.626-4.024,4-8,4s-8-1.374-8-4Z" fill="#aaa"/>
+    </g>
+  </g>
+</svg>

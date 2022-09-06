@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208.249" height="52.782" viewBox="0 0 208.249 52.782">
+  <g id="Group_7" data-name="Group 7" transform="translate(-59.444 -27)">
+    <g id="Group_6" data-name="Group 6" transform="translate(59.444 27)">
+      <g id="Group_5" data-name="Group 5">
+        <g id="Group_3" data-name="Group 3" transform="translate(0 8)">
+          <g id="Group_2" data-name="Group 2">
+            <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+              <rect id="Rectangle_1" data-name="Rectangle 1" width="19.426" height="19.426" fill="#3157f6"/>
+              <rect id="Rectangle_3" data-name="Rectangle 3" width="19.426" height="19.426" transform="translate(0 22.201)" fill="#839af9"/>
+              <rect id="Rectangle_2" data-name="Rectangle 2" width="19.426" height="19.426" transform="translate(22.201)" fill="#5a78f7"/>
+              <rect id="Rectangle_4" data-name="Rectangle 4" width="19.426" height="19.426" transform="translate(22.201 22.201)" fill="#acbcfb"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(52.249 -2)">
+          <text id="Service_View" data-name="Service View" transform="translate(0 29)" fill="#fff" font-size="25" font-family="OpenSans-Semibold, Open Sans" font-weight="600" letter-spacing="0.018em"><tspan x="0" y="0">Service View</tspan></text>
+          <text id="Employee_Management" data-name="Employee Management" transform="translate(0 50.782)" fill="#fff" font-size="12" font-family="OpenSans, Open Sans" letter-spacing="0.038em"><tspan x="0" y="0">EMPLOYEE MANAGEMENT</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
